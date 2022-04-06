@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>https://blog.sideblocks.com/2020/06/15/Porting-a-Qt-project-to-macOS-Requirements/</loc>
-    
-    <lastmod>2020-06-15T19:34:26.731Z</lastmod>
-    
-  </url>
-  
-</urlset>
+<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"><url><loc>https://blog.sideblocks.com/archive</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>https://blog.sideblocks.com/markdown-page</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>https://blog.sideblocks.com/Porting-a-Qt-project-to-macOS-Requirements</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>https://blog.sideblocks.com/tags</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>https://blog.sideblocks.com/tags/c</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>https://blog.sideblocks.com/tags/distribution</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>https://blog.sideblocks.com/tags/macos</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>https://blog.sideblocks.com/tags/qt</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>https://blog.sideblocks.com/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
